@@ -4,7 +4,14 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/TETH_Main?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTETH_Main&screen_name=TETH_Main)
 
 - I am posting about Math Graph Art.
-- I am a beginner who has been coding for less than 3 years.
+
+### The services I provide 🚀
+<a href="https://teth-main.github.io/GraTeX/">
+    <img src="https://cdn.discordapp.com/attachments/1235967859092619284/1315613495412133970/GraTeX.png?ex=67580c0c&is=6756ba8c&hm=431c6680dbeec3d2605812398700fd9ce0c066009389d3025451e843a804b09a&" alt="my service called gratex image banner" width="400">
+</a>
+
+
+---
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
